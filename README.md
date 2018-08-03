@@ -12,7 +12,7 @@ I added some features such as controling the view with mouse instead of clicking
 ![alt text](https://github.com/k1s4g4/JavaGraphicsAlgorithms/blob/master/pics/steel.png)
 
 Below are some photo of steel and torus object as shown by Hidden Line Algorithm:
-Note: zBuffer shows the same result as Painter but in some cases zBuffer is better.
+Note: zBuffer in most cases shows the same result as Painter, but in some cases zBuffer is better.
 
 ![alt text](https://github.com/k1s4g4/JavaGraphicsAlgorithms/blob/master/pics/hiddenLines.png)
 
