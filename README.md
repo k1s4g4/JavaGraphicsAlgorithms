@@ -7,9 +7,13 @@
                               -zBuffer Algorithm
                               -Hidden Line Algorithm
 
-I added some features such as controling the view with the mouse instead of clicking the menu and painting the back buffer before showing it instead of repainting every time you change point of view. My final goal was to create a 3D model of steel that is contained in reinforced concrete beams. To achive that i took the torus tha you see in the picture above, rotate it and moved each quarter by some distance to achieve the result you see in the picture below.
+I added some features such as controling the view with mouse instead of clicking the menu and painting the back buffer before showing it instead of repainting every time you change point of view. My final goal was to create a 3D model of steel that is contained in reinforced concrete beams. To achive that i took the torus tha you see in the picture above, rotate it and moved each quarter by some distance to achieve the result you see in the picture below.
 
 ![alt text](https://github.com/k1s4g4/JavaGraphicsAlgorithms/blob/master/pics/steel.png)
 
+Below are some photo of steel and torus object as shown by Hidden Line Algorithm:
+Note: zBuffer shows the same result as Painter but in some cases zBuffer is better.
 
+![alt text](https://github.com/k1s4g4/JavaGraphicsAlgorithms/blob/master/pics/hiddenLines.png)
 
+![alt text](https://github.com/k1s4g4/JavaGraphicsAlgorithms/blob/master/pics/steelLines.png)
