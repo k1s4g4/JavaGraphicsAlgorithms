@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/k1s4g4/JavaGraphicsAlgorithms/blob/master/pics/painter.png)
 
-  This project started as an intermediate level of developing my other project ConcreteView which uses OpenGL-ES but i had zero experience and knowledge about Computer Graphics so i started from the book "Computer Graphics for Java Programmers" by Leen Ammeraal. The book explains gradually every basic aspect of computer graphics such as coordinate systems and transformations from one to another, orthographic and perspective projection, data modelling, triangulation of polygons etc. It presents three algorithms for 3D representations of 3D objects which are :  
+  This project started as an intermediate level of developing my other project ConcreteView which uses OpenGL-ES but i had zero experience and knowledge about Computer Graphics so i started from the book "Computer Graphics for Java Programmers" by Leen Ammeraal. The book explains gradually every basic aspect of computer graphics such as coordinate systems and transformations from one to another, orthographic and perspective projection, data modelling, triangulation of polygons etc. It presents three algorithms for representations of 3D objects which are :  
                               -Painter Algorithm
                               -zBuffer Algorithm
                               -Hidden Line Algorithm
